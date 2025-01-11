@@ -2,7 +2,6 @@ package net.just_s.mixin;
 
 import at.petrak.hexcasting.api.spell.casting.CastingContext;
 import at.petrak.hexcasting.api.spell.casting.CastingHarness;
-import at.petrak.hexcasting.api.utils.MediaHelper;
 import net.just_s.HexxyAttributesMod;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;

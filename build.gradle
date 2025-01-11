@@ -51,6 +51,7 @@ allprojects {
     group = project.mavenGroup
 
     repositories {
+        maven { url "https://maven.bawnorton.com/releases" }
         maven { url 'https://jitpack.io' }
         maven {
             url "https://squiddev.cc/maven/"
