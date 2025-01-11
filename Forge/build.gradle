@@ -33,10 +33,6 @@ configurations {
 dependencies {
     modCompileOnly(group: 'com.google.code.findbugs', name: 'jsr305', version: '3.0.2') // for @Nonnull
 
-    // Mixin manipulation
-    compileOnly(annotationProcessor("com.github.bawnorton.mixinsquared:mixinsquared-common:0.2.0"))
-    implementation(include("com.github.bawnorton.mixinsquared:mixinsquared-forge:0.2.0"))
-
     forge "net.minecraftforge:forge:${project.forgeVersion}"
     modApi "dev.architectury:architectury-forge:${project.architecturyVersion}"
 

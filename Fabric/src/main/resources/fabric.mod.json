@@ -15,9 +15,6 @@
   "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
-    "mixinsquared-adjuster": [
-      "net.just_s.mixin.MixinManager"
-    ],
     "main": [
       "net.just_s.fabric.HexxyAttributesModFabric"
     ],

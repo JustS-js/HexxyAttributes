@@ -53,9 +53,6 @@ dependencies {
 
     modImplementation "dev.emi:trinkets:${trinketsVersion}"
 
-    // Mixin manipulation
-    include(implementation(annotationProcessor("com.github.bawnorton.mixinsquared:mixinsquared-fabric:0.2.0")))
-
     common(project(path: ":Common", configuration: "namedElements")) { transitive false }
     shadowCommon(project(path: ":Common", configuration: "transformProductionFabric")) { transitive false }
 }
