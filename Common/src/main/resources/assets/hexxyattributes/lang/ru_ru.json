@@ -1,0 +1,16 @@
+{
+  "hexxyattributes.entry.attributes": "Атрибуты",
+  "hexxyattributes.entry.attributes.entry": "Во время своих исследований я выяснил, что не все практикующие это замечательное искусство имеют одинаковые способности. Другими словами, Чародеи этого мира отличаются так называемыми $(italic)атрибутами$(clear).$(br2)Я всегда считал $(italic)талант$(clear) мифом. Эх...",
+
+  "hexcasting.spell.book.hexxyattributes:domain_reflection": "Domain Reflection",
+  "hexxyattributes.page.domain_reflection": "Добавляет радиус моего действия на стек.",
+
+  "hexcasting.spell.book.hexxyattributes:sentinel_domain_reflection": "Sentinel's Domain Reflection",
+  "hexxyattributes.page.sentinel_domain_reflection": "Добавляет радиус действия моего Стража на стек.",
+
+  "hexcasting.spell.book.hexxyattributes:media_reflection": "Media Reflection",
+  "hexxyattributes.page.media_reflection": "Добавляет на стек мою норму расхода Мысли. Было бы разумно взять единицу за базовое значение. Полезная руна, если я не хочу переоценить свои силы!",
+
+  "hexcasting.spell.book.hexxyattributes:mind_purification": "Mind Purification",
+  "hexxyattributes.page.mind_purification": "Превращает игрока на стеке в булево значение. Эта руна посылает маленькую струйку Мысли сквозь разум моей цели. Если игрок имеет потенциал к искусству Hex Casting, то результат будет равен True; иначе False."
+}

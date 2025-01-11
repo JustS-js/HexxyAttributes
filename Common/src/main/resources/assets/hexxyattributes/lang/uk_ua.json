@@ -1,0 +1,16 @@
+{
+  "hexxyattributes.entry.attributes": "Атрибути",
+  "hexxyattributes.entry.attributes.entry": "Під час своїх досліджень я з'ясував, що не всі хто практикує це чудове мистецтво мають однакові здібності. Іншими словами, Чарівники цього світу відрізняються так званими $(italic)атрибутами$(clear).$(br2)Я завжди вважав $(italic)талант$(clear) міфом. Ех...",
+
+  "hexcasting.spell.book.hexxyattributes:domain_reflection": "Domain Reflection",
+  "hexxyattributes.page.domain_reflection": "Додає радіус моеї дії на стек.",
+
+  "hexcasting.spell.book.hexxyattributes:sentinel_domain_reflection": "Sentinel's Domain Reflection",
+  "hexxyattributes.page.sentinel_domain_reflection": "Додає радіус дії мого Вартового на стек.",
+
+  "hexcasting.spell.book.hexxyattributes:media_reflection": "Media Reflection",
+  "hexxyattributes.page.media_reflection": "Додає на стек мою власну норму витрати Думки. Доцільно було б взяти одиницю за базове значення. Досить корисна руна, якщо я не хочу переоцінити свої можливості!",
+
+  "hexcasting.spell.book.hexxyattributes:mind_purification": "Mind Purification",
+  "hexxyattributes.page.mind_purification": "Претворює гравця на стеку на булеве значення. Ця руна посилає маленький потік Думки крізь розум моеї цілі. Якщо гравець має потенціал до мистецтва Hex Casting, результат буде True; інакше False."
+}
