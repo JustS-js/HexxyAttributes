@@ -29,5 +29,14 @@ public class HexxyAttributesModForge {
                     e.add(EntityType.PLAYER, HexxyAttributesMod.SENTINEL_RADIUS);
                 }
         );
+
+//        bus.addListener(
+//                (RegisterEvent e) -> {
+//                    if (e.getRegistryKey().equals(HexRegistries.ACTION)) {
+//                        HexxyAttributesMod.LOGGER.info("HI");
+//                        HexxyAttributesPatternRegistry.register();
+//                    }
+//                }
+//        );
     }
 }
